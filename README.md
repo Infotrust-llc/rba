@@ -1,5 +1,3 @@
-PLEASE NOTE: Upon the release of Google's Meredian MMM solution, this Github repository and modeling approach will be deprecated. Please see the Meredian developer documentation for more product info here: https://developers.google.com/meridian
-
 # Cookieless Regression Based Attribution
 
 Copyright 2025 InfoTrust LLC
