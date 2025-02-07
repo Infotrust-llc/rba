@@ -24,5 +24,5 @@ information on using pull requests.
 
 ## Community Guidelines
 
-This project follows [Google's Open Source Community
-Guidelines](https://opensource.google/conduct/).
+This project follows InfoTrust's Open Source Community
+Guidelines(https://github.com/Infotrust-llc/rba/blob/main/CODE%20OF%20CONDUCT.md).
