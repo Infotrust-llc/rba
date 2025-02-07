@@ -2,7 +2,7 @@ PLEASE NOTE: Upon the release of Google's Meredian MMM solution, this Github rep
 
 # Cookieless Regression Based Attribution
 
-Copyright 2021 Google LLC
+Copyright 2025 InfoTrust LLC
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -19,18 +19,18 @@ This solution, including any related sample code or data, is made available
 on an “as is,” “as available,” and “with all faults” basis, solely for 
 illustrative purposes, and without warranty or representation of any kind. 
 This solution is experimental, unsupported and provided solely for your 
-convenience. Your use of it is subject to your agreements with Google, as 
+convenience. Your use of it is subject to your agreements with InfoTrust, as 
 applicable, and may constitute a beta feature as defined under those 
-agreements.  To the extent that you make any data available to Google in 
+agreements.  To the extent that you make any data available to InfoTrust in 
 connection with your use of the solution, you represent and warrant that you 
 have all necessary and appropriate rights, consents and permissions to permit 
-Google to use and process that data.  By using any portion of this solution, 
+InfoTrust to use and process that data.  By using any portion of this solution, 
 you acknowledge, assume and accept all risks, known and unknown, associated 
 with its usage, including with respect to your deployment of any portion of 
 this solution in your systems, or usage in connection with your business, 
 if at all.
 
-This is not an officially supported Google product.
+This is not an officially supported InfoTrust product.
 
 ## What is Attribution?
 
@@ -152,7 +152,7 @@ After aggregating data in BigQuery or Google Sheets, execute the following noteb
 ### How to clone this repository
 
 ``` shell
-git clone https://github.com/google/rba
+git clone https://github.com/infotrust-llc/rba
 mkdir my-new-thing
 cd my-new-thing
 git init
